@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mobile</string>
+    <string name="employee">Employee</string>
+    <string name="owner">Owner</string>
+    <string name="customer">customer</string>
+    <string name="menu">menu</string>
+
+    <string-array name="menulist">
+        <item> "Drinks" </item>
+        <item> "Burgers" </item>
+        <item> "shawerma" </item>
+        <item> "Deserts"</item>
+        <item> "Pizza" </item>
+    </string-array>
+</resources>
