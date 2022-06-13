@@ -7,8 +7,8 @@ public class Pizza {
         private int imageID;
 
         public static final Pizza[] pizzas = {
-                new Pizza("Diavolo", R.drawable.pizza1),
-                new Pizza("Funghi", R.drawable.pizza2),
+                new Pizza("Chicken", R.drawable.pizza1),
+                new Pizza("Vegetable", R.drawable.pizza2),
 
         };
         private Pizza(String name, int imageID){

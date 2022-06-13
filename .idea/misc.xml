@@ -10,7 +10,11 @@
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_pizza_view.xml" value="0.2" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_shawerma_view.xml" value="0.2" />
+        <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_burger.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_captioned_image.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_deserts.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_drinks.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_shawerma.xml" value="0.18854166666666666" />
       </map>
     </option>
   </component>
