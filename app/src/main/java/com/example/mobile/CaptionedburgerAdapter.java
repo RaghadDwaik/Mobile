@@ -4,6 +4,7 @@ import android.graphics.drawable.Drawable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -18,10 +19,12 @@ public class CaptionedburgerAdapter extends RecyclerView.Adapter<Captionedburger
 
     private String[] captions;
     private int[] imageIds;
+    private int []price;
 
-    public CaptionedburgerAdapter(String[] captions, int[] imageIds){
+    public CaptionedburgerAdapter(String[] captions, int[] imageIds,int []price){
         this.captions = captions;
         this.imageIds = imageIds;
+        this.price=price;
     }
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
@@ -40,6 +43,11 @@ public class CaptionedburgerAdapter extends RecyclerView.Adapter<Captionedburger
         imageView.setImageDrawable(dr);
         TextView txt = (TextView)cardView.findViewById(R.id.txtName);
         txt.setText(captions[position]);
+       /// TextView pp = (TextView)cardView.findViewById(R.id.price);
+
+       //  System.out.println(price[position]);
+
+
         cardView.setOnClickListener( new View.OnClickListener(){
             @Override
             public void onClick(View v){

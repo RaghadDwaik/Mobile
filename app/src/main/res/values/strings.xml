@@ -4,6 +4,7 @@
     <string name="owner">Owner</string>
     <string name="customer">customer</string>
     <string name="menu">menu</string>
+    <string name="add_to_cart">add to cart</string>
 
     <string-array name="menulist">
         <item> "Drinks" </item>
@@ -12,4 +13,5 @@
         <item> "Deserts"</item>
         <item> "Pizza" </item>
     </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>

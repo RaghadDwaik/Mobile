@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_burger_view.xml" value="0.2" />
+        <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_cart.xml" value="0.12604166666666666" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_customer.xml" value="0.2" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_deserts_view.xml" value="0.2" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_drinks_view.xml" value="0.2" />
@@ -11,7 +12,7 @@
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_pizza_view.xml" value="0.2" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/activity_shawerma_view.xml" value="0.2" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_burger.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_captioned_image.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_captioned_image.xml" value="0.25" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_deserts.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_drinks.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MASS/AndroidStudioProjects/Mobile/app/src/main/res/layout/card_shawerma.xml" value="0.18854166666666666" />

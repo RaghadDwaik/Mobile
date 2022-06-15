@@ -27,5 +27,12 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="4dp"
             android:layout_marginBottom="4dp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add to Cart"
+            android:onClick="btncart"/>
     </LinearLayout>
 </androidx.cardview.widget.CardView>

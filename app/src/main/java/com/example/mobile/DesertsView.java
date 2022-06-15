@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 public class DesertsView extends AppCompatActivity {
 
@@ -28,5 +29,10 @@ public class DesertsView extends AppCompatActivity {
         recycler.setLayoutManager(new LinearLayoutManager(this));
         CaptionedDesertsAdapter adapter = new CaptionedDesertsAdapter(captions, ids);
         recycler.setAdapter(adapter);
+    }
+
+    public void btncart(View view) {
+        Intent in = new Intent(this,cart.class);
+        startActivity(in);
     }
 }
